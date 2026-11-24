@@ -1,0 +1,48 @@
+body {
+  background-image: url("img/leevs.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        margin: 0;
+        gap: 15px;
+}
+
+.dave {
+    margin: 200px;
+    padding: 20px;
+    background-color: brown;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 25px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: goldenrod;
+    color: brown;
+}
+
+.dave {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    gap: 15px;
+}
+
+
+
